@@ -1,2 +1,1 @@
-# bipinbarman.github.io
-Personal Website
+# personal-website
